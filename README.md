@@ -1,16 +1,2 @@
-# note_app
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+A sample todo app it add data on the local device not share data so faster execution and simpler ui![Screenshot 2024-04-17 102914](https://github.com/knightrome705/flutter_sqflite_database/assets/108185199/6eeb664e-df35-4a47-9458-c3a16cbf34d4)
+![Screenshot 2024-04-17 102941](https://github.com/knightrome705/flutter_sqflite_database/assets/108185199/42cb8dc3-e974-4a50-8b6a-78eea49f3495)
